@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <style>
+        .dummy {
+            height: 500px;
+            width: 500px;
+        }
+        .class-1 {
+            background: black;
+            @-moz-document url-prefix(){}
+        }
+        .class-2 {
+            background: red;
+        }
+        .class-3 {
+            background: pink;
+        }
+        .class-4 {
+            background: blue;
+        }
+        .class-5 {
+            background: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="dummy class-1"></div>
+    <div class="dummy class-3"></div>
+    <div class="dummy class-5"></div>
+</body>
