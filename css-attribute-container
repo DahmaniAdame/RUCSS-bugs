@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+<style id="wp-custom-css">
+ul[class^="wprm-advanced-list wprm-advanced-list-reset wprm-advanced-list-"] li:before {
+    background-color: #006344;
+    color: #ffffff;
+    width: 1.8em;
+    height: 1.8em;
+    font-size: 12px;
+    line-height: 12px;
+}		</style>
+</head>
+<body>
+<ul class="wprm-advanced-list wprm-advanced-list-reset wprm-advanced-list-7613 wprm-recipe-instructions"><li id="wprm-recipe-14221-step-0-0" class="wprm-recipe-instruction" style="list-style-type: none;"><div class="wprm-recipe-instruction-text" style="margin-bottom: 15px" ;=""><span style="display: block;">Preheat the oven to 325°F.</span></div></li><li id="wprm-recipe-14221-step-0-1" class="wprm-recipe-instruction" style="list-style-type: none;"><div class="wprm-recipe-instruction-text" style="margin-bottom: 15px" ;=""><span style="display: block;">Cream together ¾ cup of confectioners’ sugar and butter until light and fluffy, and then mix in the salt, ground almonds, and vanilla extract. Mix in the all-purpose flour until well combined.</span></div></li><li id="wprm-recipe-14221-step-0-2" class="wprm-recipe-instruction" style="list-style-type: none;"><div class="wprm-recipe-instruction-text" style="margin-bottom: 15px" ;=""><span style="display: block;">Roll the dough into 1-inch balls and space them 2 inches apart onto ungreased cookie sheets. Bake for 15 minutes. Remove them from the oven and let them cool for a few minutes. The cookies should still look pale in color when you take them out.</span></div></li><li id="wprm-recipe-14221-step-0-3" class="wprm-recipe-instruction" style="list-style-type: none;"><div class="wprm-recipe-instruction-text" style="margin-bottom: 15px" ;=""><span style="display: block;">Roll the warm cookies in the remaining confectioners’ sugar and place them on a wire rack to finish cooling completely. Once cool, dust with more confectioners’ sugar, and then serve and enjoy!</span></div></li></ul>
+</body>
